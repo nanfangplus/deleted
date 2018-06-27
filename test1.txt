@@ -1,2 +1,4 @@
 Lorem ipsum
-test with master branch
+<<<<<<< HEAD
+correct with master branch
+
