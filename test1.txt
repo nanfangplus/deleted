@@ -1,3 +1,2 @@
 Lorem ipsum
-git tracks changes
-new line
+test with a new branch
