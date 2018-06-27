@@ -1,2 +1,2 @@
 Lorem ipsum
-test with a new branch
+another new branch
